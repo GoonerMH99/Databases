@@ -1,3 +1,4 @@
+# ERDs
 ## Here are the Entity Relationship Diagrams that I have previously created for different examples of databases, 
 ERDs are considered the first step of the database design and play an important role in the process of creating the database structure 
 
