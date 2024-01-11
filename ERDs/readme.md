@@ -1,6 +1,5 @@
 # ERDs
-## Here are the Entity Relationship Diagrams that I have previously created for different examples of databases, 
-ERDs are considered the first step of the database design and play an important role in the process of creating the database structure 
+## Here are the Entity Relationship Diagrams that I have previously created for different examples of databases, ERDs are considered the first step of the database design and play an important role in the process of creating the database structure 
 
 ### Example of an ERD for an Airport Database
 ![Airport](https://github.com/GoonerMH99/Databases/assets/101012808/b2f206e2-aa85-47e9-ac48-3809fd496135)
