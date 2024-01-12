@@ -15,3 +15,6 @@
 
 ### Example of an ERD for a Real Estate Firm Database
 ![Real_Estate_Firm](https://github.com/GoonerMH99/Databases/assets/101012808/c05d8d7b-bf70-4f3a-8dfb-cba73d6ec6c4)
+
+### Example of an ERD for a Company Database
+![Company2](https://github.com/GoonerMH99/Databases/assets/101012808/da9efd40-2992-47c7-b993-5beaba7acd88)
